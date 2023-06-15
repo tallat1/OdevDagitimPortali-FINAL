@@ -1,0 +1,88 @@
+mat-toolbar {
+  background: #004a9f;
+  color: white;
+}
+
+mat-sidenav {
+  margin: 16px;
+  width: 230px;
+  border-right: none;
+  background: linear-gradient(0deg, rgb(1, 0, 15) 0%, rgba(9, 9, 121, 1) 60%, rgba(0, 212, 255, 1) 100%);
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+
+}
+
+
+
+.content {
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  /* background: linear-gradient(0deg, rgba(0,84,15,0.8323704481792717) 0%, rgba(255,255,255,0) 100%); */
+  height: calc(100vh - 130px);
+  border-radius: 10px;
+  margin: 16px;
+  margin-left: 32px;
+  padding: 16px;
+  overflow: auto;
+}
+
+mat-sidenav-container {
+  height: calc(100vh - 65px);
+  color: black;
+}
+
+.menu-button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 1rem;
+
+
+}
+
+.avatar {
+  margin-top: 16px;
+  margin-bottom: 10px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.name {
+  margin-top: 8px;
+  font-weight: normal;
+}
+
+.designation {
+  margin-top: 2px;
+  font-size: 1rem;
+  color: lightgrey;
+}
+
+mat-icon {
+  color: aliceblue;
+}
+
+.icon-display {
+  transform: scale(1.5);
+}
+
+span {
+  margin-left: 10px;
+  color: rgb(255, 255, 255);
+}
+
+.odev {
+  font-size: 25px;
+  margin: 0 auto;
+
+}
+
+mat-divider {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  background-color: rgba(255, 255, 255, 0.5);
+}

@@ -1,0 +1,55 @@
+<mat-toolbar color="primary" class="mat-elevation-z6">
+  <mat-icon matSuffix>group_add</mat-icon>
+  &nbsp;
+  &nbsp;
+  <span>{{dialogBaslik}}</span>
+</mat-toolbar>
+<div class="container">
+  <form [formGroup]="frm">
+    
+    <mat-form-field appearance="outline" style="width: 100%;">
+      <mat-label>Öğrenci Numarası</mat-label>
+      <input matInput formControlName="ogrNo" placeholder="Öğrenci Numarası" name="ogrNo" required type="text">
+      <mat-icon matSuffix>alternate_email</mat-icon>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" style="width: 100%;">
+      <mat-label>Adı Soyadı</mat-label>
+      <input matInput formControlName="ogrAdsoyad" placeholder="Adı Soyadı" name="ogrAdsoyad" required type="text">
+      <mat-icon matSuffix>send</mat-icon>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" style="width: 100%;">
+      <mat-label>Doğum Tarihiı</mat-label>
+      <input matInput formControlName="ogrDogTarih" placeholder="Doğum Tarihi" [matDatepicker]="picker" >
+      <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker matDatepicker></mat-datepicker>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" style="width: 100%;">
+      <mat-label>E-Mail</mat-label>
+      <input matInput formControlName="ogrEmail" placeholder="E-Mail" name="ogrEmail" required type="text">
+      <mat-icon matSuffix>mail_outline</mat-icon>
+    </mat-form-field>
+    <mat-form-field appearance="outline" style="width: 100%;">
+      <mat-label>Şifre</mat-label>
+      <input matInput formControlName="ogrSifre" placeholder="Şifre" name="ogrSifre" required type="text">
+      <mat-icon matSuffix>lock</mat-icon>
+    </mat-form-field>
+    <mat-form-field appearance="outline" style="width: 100%;">
+      <mat-label>Admin</mat-label>
+      <mat-select matInput formControlName="ogrAdmin">
+        <mat-option value="1">Admin</mat-option>
+        <mat-option value="0">User</mat-option>
+      </mat-select>
+      <mat-icon matSuffix>verified_user</mat-icon>
+    </mat-form-field>
+
+  </form>
+  <div>
+    <button mat-raised-button class="btn" (click)="dialogRef.close(frm.value)" 
+      [disabled]="frm.invalid">Kaydet</button>&nbsp;
+    <button mat-raised-button color="warn" (click)="dialogRef.close()">Kapat</button>
+  </div>
+
+</div>

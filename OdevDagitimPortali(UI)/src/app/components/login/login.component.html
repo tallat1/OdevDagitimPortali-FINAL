@@ -1,0 +1,30 @@
+<div class="login-page">
+  <mat-card class="mat-elevation-z12">
+    <mat-card-title style="text-align:center; margin-top: 4%;">Oturum Aç</mat-card-title>
+    <mat-tab-group mat-stretch-tabs class="example-stretched-tabs">
+
+      <mat-tab label="Giriş">
+        <mat-card-content>
+          <form action="">
+            <mat-form-field appearance="outline">
+              <input matInput placeholder="E-Mail" type="text" #kadi>
+              <mat-icon matSuffix>email</mat-icon>
+            </mat-form-field>
+            <mat-form-field appearance="outline">
+              <input matInput placeholder="Parola" [type]="hide ? 'password' : 'text'" #parola>
+              <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'"
+                [attr.aria-pressed]="hide">
+                <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+              </button>
+            </mat-form-field>
+            <mat-checkbox>Beni Hatırla!</mat-checkbox>
+            <button mat-raised-button color="primary" class="login-button" (click)="OturumAc(kadi.value,parola.value)">
+              Oturum Aç
+            </button>
+          </form>
+        </mat-card-content>
+      </mat-tab>
+
+    </mat-tab-group>
+  </mat-card>
+</div>

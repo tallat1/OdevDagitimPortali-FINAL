@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4cb8518c197d439e866a76f412b47720" Name="Diagram1">
+        <EntityTypeShape EntityType="DBodevModel.Ders" Width="1.5" PointX="0.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBodevModel.Kayit" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBodevModel.Odev" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBodevModel.Ogrenci" Width="1.5" PointX="8" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBodevModel.Ogretmen" Width="1.5" PointX="8" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="DBodevModel.FK_Odev_ToOdevbyDersId" ManuallyRouted="false" />
+        <AssociationConnector Association="DBodevModel.FK_Ogretmen_ToBolumu" ManuallyRouted="false" />
+        <AssociationConnector Association="DBodevModel.FK_Kayit_ToOdev" ManuallyRouted="false" />
+        <AssociationConnector Association="DBodevModel.FK_Kayit_ToOgrenci" ManuallyRouted="false" />
+        <AssociationConnector Association="DBodevModel.FK_Kayit_ToOgretmen" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

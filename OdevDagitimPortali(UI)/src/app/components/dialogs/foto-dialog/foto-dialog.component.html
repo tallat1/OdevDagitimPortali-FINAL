@@ -1,0 +1,13 @@
+<mat-toolbar color="primary" class="mat-elevation-z6">
+  <mat-icon matSuffix>upload_file</mat-icon>
+  &nbsp;
+  &nbsp;
+  <span>Ödev Yükle</span>
+</mat-toolbar>
+<div class="container">
+  <img [src]="secilenFoto" style="width: 200px;" />
+  <input type="file" name="" id="" (change)="FotoSec($event)" #foto hidden="true">
+  <p>&nbsp;</p>
+  <button mat-raised-button class="btn" (click)="foto.click()">Ödevi Seç</button>&nbsp;
+  <button mat-raised-button color="primary" (click)="dialogRef.close(ogrFoto)" [disabled]="!secilenFoto">Kaydet</button>
+</div>

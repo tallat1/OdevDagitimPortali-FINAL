@@ -1,0 +1,951 @@
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali\odevportali\obj\Debug\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Swashbuckle.Core.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\WebActivatorEx.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\obj\Debug\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.Security.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\System.Web.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\System.Web.Http.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.Cors.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.Security.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_02\odevportali\bin\System.Web.Http.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.Security.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Swashbuckle.Core.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\System.Web.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\System.Web.Http.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\WebActivatorEx.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.Security.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\System.Web.Http.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\20.05(noSwagger)\odevportali_03\odevportali\obj\Debug\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.Security.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Swashbuckle.Core.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\System.Web.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\System.Web.Http.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\WebActivatorEx.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.Security.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\System.Web.Http.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\Ödev Dağıtım Portalı\odevportali_03\odevportali\obj\Debug\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.Security.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Swashbuckle.Core.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\System.Web.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\System.Web.Http.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\WebActivatorEx.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.Security.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\System.Web.Http.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\odevportali_03\odevportali\obj\Debug\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.Security.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Swashbuckle.Core.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\System.Web.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\System.Web.Http.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\WebActivatorEx.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.Security.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\System.Web.Http.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\05.06\odevportali_03\odevportali\obj\Debug\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.Security.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Swashbuckle.Core.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\System.Web.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\System.Web.Http.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\WebActivatorEx.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.Security.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\System.Web.Http.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v3\odevportali_03\odevportali\obj\Debug\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.Security.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Swashbuckle.Core.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\System.Web.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\System.Web.Http.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\WebActivatorEx.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.Security.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\System.Web.Http.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v4\odevportali_03\odevportali\obj\Debug\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.Security.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Swashbuckle.Core.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\System.Web.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\System.Web.Http.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\WebActivatorEx.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.Security.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\System.Web.Http.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v5\odevportali_03\odevportali\obj\Debug\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\odevportali.dll.config
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\odevportali.pdb
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\csc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\csc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\csc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\csi.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\csi.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\csi.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.AppContext.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Console.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Net.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.ValueTuple.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\vbc.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\vbc.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\vbc.rsp
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\EntityFramework.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\EntityFramework.SqlServer.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.Security.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Newtonsoft.Json.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Swashbuckle.Core.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\System.Net.Http.Formatting.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\System.Web.Cors.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\System.Web.Http.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\System.Web.Http.Owin.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\System.Web.Http.WebHost.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\WebActivatorEx.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\EntityFramework.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\EntityFramework.SqlServer.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.Cors.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.Security.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\System.Net.Http.Formatting.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\System.Web.Http.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\System.Web.Http.Owin.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Newtonsoft.Json.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\System.Web.Http.WebHost.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\obj\Debug\odevportali.dll
+C:\Users\ozcob\OneDrive\Masaüstü\v6\odevportali_03\odevportali\obj\Debug\odevportali.pdb
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\odevportali.dll.config
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\odevportali.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\odevportali.pdb
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\csc.exe
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\csc.exe.config
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\csc.rsp
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\csi.exe
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\csi.exe.config
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\csi.rsp
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.AppContext.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Collections.Immutable.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Console.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Globalization.Calendars.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.IO.Compression.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.IO.FileSystem.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Net.Http.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Net.Sockets.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Reflection.Metadata.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.ValueTuple.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Xml.XPath.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\vbc.exe
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\vbc.exe.config
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\vbc.rsp
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\VBCSCompiler.exe
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\roslyn\VBCSCompiler.exe.config
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\EntityFramework.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\EntityFramework.SqlServer.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.Cors.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.Security.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Web.Infrastructure.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Newtonsoft.Json.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Owin.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Swashbuckle.Core.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\System.Net.Http.Formatting.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\System.Web.Cors.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\System.Web.Http.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\System.Web.Http.Owin.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\System.Web.Http.WebHost.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\WebActivatorEx.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\EntityFramework.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\EntityFramework.SqlServer.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.Cors.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.Security.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\System.Net.Http.Formatting.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\System.Web.Http.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\System.Web.Http.Owin.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Newtonsoft.Json.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\System.Web.Http.WebHost.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\obj\Debug\odevportali.csproj.AssemblyReference.cache
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\obj\Debug\odevportali.csproj.CoreCompileInputs.cache
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\obj\Debug\odevportali.csproj.CopyComplete
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\obj\Debug\odevportali.dll
+E:\ANGULAR and C#\odev_dagitim_portali\OdevDagitimPortali(API)\odevportali\obj\Debug\odevportali.pdb

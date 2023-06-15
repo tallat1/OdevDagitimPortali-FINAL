@@ -1,0 +1,78 @@
+<h2>Öğrenciler</h2>
+&nbsp;
+<button mat-fab color="primary" matTooltip="Öğrenci Ekle" (click)="OgrenciEkle()" *ngIf="admin =='Admin'">
+  <mat-icon aria-label="label">add</mat-icon>
+</button>
+<span style="margin-right: 20px;"></span>
+<mat-form-field appearance="outline">
+  <mat-label>Ara</mat-label>
+  <input matInput placeholder="Ara" (keyup)="Filterele($event)">
+  <mat-icon matSuffix>search</mat-icon>
+</mat-form-field>
+
+<mat-table [dataSource]="dataSource" matSort style="background-color:rgba(0, 0, 0, 0);">
+
+  <ng-container matColumnDef="ogrFoto">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Fotoğraf
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit">
+
+      <!-- <img ngSrc="/src/app/dosya/user.png" alt="user.png"> -->
+
+
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" alt="user.png"
+        style="width: 40px;cursor: pointer;">
+
+    </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="ogrNo">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Öğrenci No
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrNo}} </mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="ogrAdsoyad">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Adı Soyadı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrAdsoyad}} </mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="ogrDogTarih">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Doğum Tarihi
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrDogTarih | date:'dd.MM.yyyy'}} </mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="ogrOdevSayisi">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Aldıgı Odev Sayısı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrOdevSayisi}} </mat-cell>
+  </ng-container>
+
+
+  <ng-container matColumnDef="islemler">
+    <div>
+      <mat-header-cell *matHeaderCellDef> İşlemler
+      </mat-header-cell>
+    </div>
+    <mat-cell *matCellDef="let kayit">
+      <button mat-icon-button matTooltip="Ödev Ekle" [routerLink]="['/odevlistele',kayit.ogrId]"
+        *ngIf="admin =='Admin'">
+        <mat-icon aria-label="label">playlist_add</mat-icon>
+      </button>
+      <button mat-icon-button color="primary" matTooltip="Öğrenci Düzenle" (click)="OgrenciDuzenle(kayit)"
+        *ngIf="admin =='Admin'">
+        <mat-icon aria-label="label">edit</mat-icon>
+      </button>
+      <button mat-icon-button color="warn" matTooltip="Öğrenci Sil" (click)="OgrenciSil(kayit)" *ngIf="admin =='Admin'">
+        <mat-icon aria-label="label">delete</mat-icon>
+      </button>
+      <button mat-icon-button color="warn" matTooltip="Yetkiniz YOK!!!" *ngIf="admin =='Uye'">
+        <mat-icon aria-label="label" style="color: rgb(255, 174, 0);">warning</mat-icon>
+      </button>
+    </mat-cell>
+  </ng-container>
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>
+<mat-paginator [pageSizeOptions]="[ 10, 25, 100,500]" style="background-color:rgba(0, 0, 0, 0);">
+</mat-paginator>

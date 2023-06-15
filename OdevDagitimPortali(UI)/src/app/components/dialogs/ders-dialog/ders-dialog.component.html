@@ -1,0 +1,31 @@
+<mat-toolbar color="primary" class="mat-elevation-z6">
+  <mat-icon matSuffix>collections_bookmark</mat-icon>
+  &nbsp;
+  &nbsp;
+  <span>{{dialogBaslik}}</span>
+</mat-toolbar>
+
+<div class="container">
+  <form [formGroup]="frm">
+    <mat-form-field appearance="outline" style="width: 100%;">
+      <mat-label>Ders Adı</mat-label>
+      <input matInput formControlName="dersAdi" placeholder="Ders Adı" name="dersAdi" required type="text">
+      <mat-icon matSuffix>library_books</mat-icon>
+    </mat-form-field>
+    <mat-form-field appearance="outline" style="width: 100%;">
+      <mat-label>Ders Kodu</mat-label>
+      <input matInput formControlName="dersKodu" placeholder="Ders Kodu" name="dersKodu" required type="text">
+      <mat-icon matSuffix>code</mat-icon>
+    </mat-form-field>
+    <mat-form-field appearance="outline" style="width: 100%;">
+      <mat-label>Ders Kredi</mat-label>
+      <input matInput formControlName="dersKredi" placeholder="Ders Kredi" name="dersKredi" required type="text">
+      <mat-icon matSuffix>texture</mat-icon>
+    </mat-form-field>
+  </form>
+  <div>
+    <button class="mat-elevation-z6" mat-raised-button class="btn" (click)="dialogRef.close(frm.value)"
+      [disabled]="frm.invalid">Kaydet</button>&nbsp;
+    <button class="mat-elevation-z6" mat-raised-button color="warn" (click)="dialogRef.close()">Kapat</button>
+  </div>
+</div>

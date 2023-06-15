@@ -1,0 +1,39 @@
+<h2>Öğrenci Listelesi</h2>
+
+
+
+<button mat-fab color="primary" (click)="Ekle()" matTooltip="Öğrenci Ekle">
+  <mat-icon aria-label="label">person_add</mat-icon>
+</button>
+<mat-table [dataSource]="dataSource" matSort>
+  <ng-container matColumnDef="ogrNo">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Öğrenci No
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrBilgi.ogrNo}} </mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="ogrAdsoyad">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Adı Soyadı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrBilgi.ogrAdsoyad}} </mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="ogrDogTarih">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Doğum Tarihi
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrBilgi.ogrDogTarih}} </mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="islemler">
+    <mat-header-cell *matHeaderCellDef> İşlemler
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit">
+
+      <button mat-icon-button color="warn" matTooltip="Öğrenci Sil" (click)="KayitSil(kayit)">
+        <mat-icon aria-label="label">delete</mat-icon>
+      </button>
+
+    </mat-cell>
+  </ng-container>
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>
+<mat-paginator [pageSizeOptions]="[ 10, 25, 100,500]">
+</mat-paginator>

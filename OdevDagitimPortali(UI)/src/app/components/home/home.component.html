@@ -1,0 +1,86 @@
+<div class="container">
+    <h1> Sayın <b style="color: rgb(230, 157, 0);"> {{kadi}}</b> Hoşgeldiniz. Aşağıda verilen ödevler size aittir.</h1>
+</div>
+
+
+
+<mat-form-field appearance="outline" style="margin-top: 20px;">
+    <mat-label>Ara</mat-label>
+    <input matInput placeholder="Ara" (keyup)="Filterele($event)">
+    <mat-icon matSuffix>search</mat-icon>
+</mat-form-field>
+
+
+<mat-table [dataSource]="dataSource" matSort style="background-color:rgba(0, 0, 0, 0);">
+
+
+    <ng-container matColumnDef="done">
+        <mat-header-cell *matHeaderCellDef>
+        </mat-header-cell>
+        <mat-cell *matCellDef="let kayit">
+            <button mat-icon-button color="gesture">
+                <mat-icon aria-label="label" style="color: #3cba92;">done_outline</mat-icon>
+            </button>
+        </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="odevAdi">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Ödev Adı
+        </mat-header-cell>
+        <mat-cell *matCellDef="let kayit"> {{kayit.odevBilgi.odevAdi}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="odevDersAdi">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Ders Adı
+        </mat-header-cell>
+        <mat-cell *matCellDef="let kayit"> {{kayit.odevBilgi.odevDersAdi}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="kayitTarih">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Kayıt Tarihi
+        </mat-header-cell>
+        <mat-cell *matCellDef="let kayit"> {{kayit.kayitTarih}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="ogretmenAdSoyad">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Ödevi Veren Öğretmen
+        </mat-header-cell>
+        <mat-cell *matCellDef="let kayit"> {{kayit.ogretmenBilgi.ogretmenAdSoyad}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="kayitTeslimTarih">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Teslim Tarihi
+        </mat-header-cell>
+        <mat-cell *matCellDef="let kayit"> {{kayit.kayitTeslimTarih | date:'dd.MM.yyyy'}} </mat-cell>
+      </ng-container>
+
+    <ng-container matColumnDef="islemler">
+        <mat-header-cell *matHeaderCellDef> Ödevi Yükle</mat-header-cell>
+        <mat-cell *matCellDef="let kayit">
+
+            <button mat-icon-button color="primary" matTooltip="Ödevi Yükle" (click)="FotoGuncelle(kayit)">
+                <mat-icon aria-label="label" style="color: blue;">upload_file</mat-icon>
+            </button>
+
+        </mat-cell>
+    </ng-container>
+
+
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+
+</mat-table>
+
+<mat-paginator [length]="kayitlar?.length" [pageSizeOptions]="[5, 10, 25, 100]" showFirstLastButtons
+  style="background-color:rgba(0, 0, 0, 0);">
+</mat-paginator>
+
+
+
+<body>
+    <div class="container">
+      <h1>ÖDEV TESLİM TARİHİ UYARISI</h1>
+      <p>Sevgili Öğrenciler,</p>
+      <div class="reminder">
+        <p>Sizlere önemli bir hatırlatma yapmak istiyoruz: Verilen ödevleri belirtilen tarihe kadar teslim etmek zorundasınız. Bu uyarı, başarıya giden yolda sizi yönlendirmek ve süreci düzenli tutmak amacıyla yapılmaktadır. Lütfen yukarıdaki noktalara dikkat edin ve ödevlerinizi zamanında teslim ettiğinizden emin olun.</p>
+      </div>
+    </div>
+  
+    
+  </body>

@@ -1,0 +1,46 @@
+<h2>Öğrenci Listesi</h2>
+<p><b>Ödev Adı: </b> {{secOdev?.odevAdi}}</p>
+
+<mat-table [dataSource]="dataSource" matSort style="background-color:rgba(0, 0, 0, 0);">
+
+  <ng-container matColumnDef="ogrFoto">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Fotoğraf
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit">
+
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" alt="asd"
+        style="width: 40px;cursor: pointer;">
+
+    </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="ogrNo">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Öğrenci No
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrBilgi.ogrNo}} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="ogrAdSoyad">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Adı Soyadı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrBilgi.ogrAdsoyad}} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="ogrDogTarih">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Doğum Tarihi
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrBilgi.ogrDogTarih | date:'dd.MM.yyyy'}} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="ogrOdevSayisi">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Aldığı Ödev Sayısı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogrBilgi.ogrOdevSayisi}} </mat-cell>
+  </ng-container>
+
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>
+<mat-paginator [length]="kayitlar?.length" [pageSizeOptions]="[5, 10, 25, 100]" showFirstLastButtons style="background-color:rgba(0, 0, 0, 0);">
+</mat-paginator>

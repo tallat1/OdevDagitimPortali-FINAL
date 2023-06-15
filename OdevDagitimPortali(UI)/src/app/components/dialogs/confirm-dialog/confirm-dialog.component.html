@@ -1,0 +1,12 @@
+<mat-toolbar color="primary" class="mat-elevation-z6">
+  <mat-icon matSuffix>done</mat-icon>
+  <span>İşlem Onayı</span>
+</mat-toolbar>
+<div class="container">
+  
+  <h3>{{dialogMesaj}}</h3>
+  <div>
+    <button mat-raised-button class="btn" (click)="dialogRef.close(true)">Tamam</button>&nbsp;
+    <button mat-raised-button color="warn" (click)="dialogRef.close(false)">İptal</button>
+  </div>
+</div>

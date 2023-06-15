@@ -1,0 +1,102 @@
+<h2>Ödev Listesi</h2>
+<p><b>Öğrenci No : </b> {{secOgrenci?.ogrNo}}</p>
+<p><b>Adı Soyadı : </b> {{secOgrenci?.ogrAdsoyad}}</p>
+
+
+<mat-form-field appearance="outline" style="width: 25%;">
+  <mat-select placeholder="Ogretmen Seçiniz" (selectionChange)="OgretmenSec($event.value)">
+    <mat-option [value]="ogretmen.ogretmenId"
+      *ngFor="let ogretmen of ogretmenler">{{ogretmen.ogretmenAdSoyad}}</mat-option>
+  </mat-select>
+</mat-form-field>
+&nbsp;
+
+<mat-form-field appearance="outline" style="width: 25%;">
+  <mat-select placeholder="Ders Seçiniz" (selectionChange)="DersSec($event.value)">
+    <mat-option [value]="ders.dersId" *ngFor="let ders of dersler">{{ders.dersAdi}}</mat-option>
+  </mat-select>
+</mat-form-field>
+&nbsp;
+
+<mat-form-field appearance="outline" style="width: 25%;">
+  <mat-select placeholder="Odev Seçiniz" (selectionChange)="OdevSec($event.value)">
+    <mat-option [value]="odev.odevId" *ngFor="let odev of odevler">{{odev.odevAdi}}</mat-option>
+  </mat-select>
+</mat-form-field>
+&nbsp;
+
+<mat-form-field appearance="outline" style="width: 15%;">
+  <mat-label>Teslim Tarihiı</mat-label>
+  <input matInput [matDatepicker]="picker" placeholder="Teslim Tarihi" [(ngModel)]="kayitTeslimTarih"
+    name="kayitTarih" required>
+  <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+  <mat-datepicker #picker matDatepicker></mat-datepicker>
+</mat-form-field>
+
+&nbsp;
+
+
+<button mat-fab color="primary" (click)="Kaydet()">
+  <mat-icon aria-label="label">add</mat-icon>
+</button>
+
+
+<mat-table [dataSource]="dataSource" matSort style="background-color:rgba(0, 0, 0, 0);">
+
+  <ng-container matColumnDef="logo">
+    <mat-header-cell *matHeaderCellDef> Ödev
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit">
+      <button mat-icon-button matTooltip="Ödev">
+        <mat-icon aria-label="label">book</mat-icon>
+      </button>
+    </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="odevAdi">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Ödev Adı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.odevBilgi.odevAdi}} </mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="odevDersAdi">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Ders Adı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.odevBilgi.odevDersAdi}} </mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="kayitTarih">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Kayıt Tarihi
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.kayitTarih}} </mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="ogretmenAdSoyad">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Ödevi Veren Öğretmen
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.ogretmenBilgi.ogretmenAdSoyad}} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="kayitTeslimTarih">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Teslim Tarihi
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.kayitTeslimTarih | date:'dd.MM.yyyy'}} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="islemler">
+    <mat-header-cell *matHeaderCellDef> İşlemler
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit">
+      <button mat-icon-button color="warn" matTooltip="Ders Kaydını Sil" (click)="OdevSil(kayit)">
+        <mat-icon aria-label="label">delete</mat-icon>
+      </button>
+    </mat-cell>
+
+  </ng-container>
+
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+
+</mat-table>
+
+<mat-paginator [length]="kayitlar?.length" [pageSizeOptions]="[5, 10, 25, 100]" showFirstLastButtons
+  style="background-color:rgba(0, 0, 0, 0);">
+</mat-paginator>

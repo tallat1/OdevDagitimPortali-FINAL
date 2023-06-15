@@ -1,0 +1,78 @@
+<h2>Ödevler</h2>
+&nbsp;
+<button mat-fab color="primary" matTooltip="Ders Ekle" (click)="OdevEkle()" *ngIf="admin =='Admin'">
+  <mat-icon aria-label="label">add</mat-icon>
+</button>
+<span style="margin-right: 20px;"></span>
+
+<mat-form-field appearance="outline">
+  <mat-label>Ara</mat-label>
+  <input matInput placeholder="Ara" (keyup)="Filterele($event)">
+  <mat-icon matSuffix>search</mat-icon>
+</mat-form-field>
+
+<mat-table [dataSource]="dataSource" matSort style="background-color:rgba(0, 0, 0, 0);">
+
+  <ng-container matColumnDef="logo">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> 
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit">
+      <button mat-icon-button matTooltip="Ödev">
+        <mat-icon aria-label="label">book</mat-icon>
+      </button>
+    </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="odevAdi">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Ödev Adi
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.odevAdi}} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="odevDersAdi">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Ders Adı
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.odevDersAdi}}</mat-cell>
+  </ng-container>
+  <ng-container matColumnDef="odevDersKredi">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Ders Kredi
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit">{{kayit.odevDersKredi}}</mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="odevDersKodu">
+    <mat-header-cell *matHeaderCellDef mat-sort-header> Ders Kodu
+    </mat-header-cell>
+    <mat-cell *matCellDef="let kayit"> {{kayit.odevDersKodu}} </mat-cell>
+  </ng-container>
+
+
+
+  <ng-container matColumnDef="islemler">
+    <mat-header-cell *matHeaderCellDef> İşlemler</mat-header-cell>
+    <mat-cell *matCellDef="let kayit">
+
+      <button mat-icon-button matTooltip="Öğrenci Listesi" [routerLink]="['/odevogrliste',kayit.odevId]"
+        *ngIf="admin =='Admin'">
+        <mat-icon aria-label="label">person</mat-icon>
+      </button>
+      <button mat-icon-button color="primary" matTooltip="Ödev Düzenle" (click)="OdevDuzenle(kayit)"
+        *ngIf="admin =='Admin'">
+        <mat-icon aria-label="label">edit</mat-icon>
+      </button>
+      <button mat-icon-button color="warn" matTooltip="Ödev Sil" (click)="OdevSil(kayit)" *ngIf="admin =='Admin'">
+        <mat-icon aria-label="label">delete</mat-icon>
+      </button>
+      <button mat-icon-button color="warn" matTooltip="Yetkiniz YOK!!!" *ngIf="admin =='Uye'">
+        <mat-icon aria-label="label" style="color: red;">warning</mat-icon>
+      </button>
+    </mat-cell>
+  </ng-container>
+
+
+  <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</mat-table>
+<mat-paginator [length]="odevler?.length" [pageSizeOptions]="[10, 25, 50, 100]" showFirstLastButtons
+  style="background-color:rgba(0, 0, 0, 0);">
+</mat-paginator>

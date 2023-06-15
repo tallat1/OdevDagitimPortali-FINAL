@@ -1,0 +1,122 @@
+<mat-toolbar class="mat-elevation-z8" style="display: flex; justify-content: space-between; ">
+
+
+  <button mat-icon-button *ngIf="sidenav.mode == 'over'" (click)="sidenav.toggle()">
+    <mat-icon *ngIf="!sidenav.opened"> menu </mat-icon>
+    <mat-icon *ngIf="sidenav.opened"> close </mat-icon>
+  </button>
+  
+  <p class="odev"> Ödev Dağıtım Portalı </p>
+
+  <button mat-button *ngIf="admin=='Uye'" routerLink="/login" (click)="OturumKapat()">
+    <mat-icon class="icon-display">power_settings_new</mat-icon>
+  </button>
+
+  <button mat-button [matMenuTriggerFor]="menu" *ngIf="admin=='Admin'">
+    <mat-icon class="icon-display">admin_panel_settings</mat-icon>
+  </button>
+
+
+  <mat-menu #menu="matMenu">
+    <button mat-menu-item routerLink="/ogrenci">
+      <label>Ögrenci</label>
+      <mat-icon>person</mat-icon>
+    </button>
+    <button mat-menu-item routerLink="/ogretmen">
+      <label>Ögretmen</label>
+      <mat-icon>person_outline</mat-icon>
+    </button>
+    <button mat-menu-item routerLink="/ders">
+      <label>Dersler</label>
+      <mat-icon>library_books</mat-icon>
+    </button>
+    <button mat-menu-item routerLink="/odev">
+      <label>Ödevler</label>
+      <mat-icon>book</mat-icon>
+    </button>
+    <mat-divider></mat-divider>
+    <button mat-menu-item routerLink="/login" (click)="OturumKapat()">
+      <label>Oturumu Kapat</label>
+      <mat-icon style="color: red;">power_settings_new</mat-icon>
+    </button>
+  </mat-menu>
+
+
+</mat-toolbar>
+
+
+<mat-sidenav-container>
+  <mat-sidenav #sidenav="matSidenav" class="mat-elevation-z8">
+
+
+
+    <!-- öğrenci ve öğretemen yetkileri -->
+
+    <img class="avatar mat-elevation-z8"
+      src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" />
+
+    <div>
+      <p class="designation" *ngIf="admin=='Admin'">Öğretmen</p>
+      <p class="designation" *ngIf="admin=='Uye'">Öğrenci</p>
+    </div>
+
+    <!-- yetkiye gore ad verilecek ogr veya ogretmen -->
+
+
+    <button mat-button class="menu-button" routerLink="/home" *ngIf="apiServis.oturumKontrol()">
+      <mat-icon class="icon-display">arrow_right</mat-icon>
+      <span>{{kadi}}</span>
+    </button>
+
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button " routerLink="/home" *ngIf="admin == 'Uye'">
+      <mat-icon class="icon-display">home</mat-icon>
+      <span>Anasayfa</span>
+    </button>
+
+    <button mat-button class="menu-button" routerLink="/ogrenci" *ngIf="admin == 'Admin'">
+      <mat-icon class="icon-display">person</mat-icon>
+      <span>Öğrenciler</span>
+    </button>
+
+    <button mat-button class="menu-button" routerLink="/ogretmen">
+      <mat-icon class="icon-display">person_outline</mat-icon>
+      <span>Ögretmenler</span>
+    </button>
+
+    <button mat-button class="menu-button" routerLink="/ders">
+      <mat-icon class="icon-display">library_books</mat-icon>
+      <span>Dersler</span>
+    </button>
+
+    <button mat-button class="menu-button" routerLink="/odev">
+      <mat-icon class="icon-display">book</mat-icon>
+      <span>Ödevler</span>
+    </button>
+
+    <mat-divider></mat-divider>
+
+    <button mat-button class="menu-button" routerLink="/login" *ngIf="!apiServis.oturumKontrol()">
+      <mat-icon class="icon-display" style="color: rgb(0, 185, 0);">login</mat-icon>
+      <span>Oturum Aç</span>
+    </button>
+
+
+
+    <button mat-button class="menu-button" routerLink="/login" (click)="OturumKapat()"
+      *ngIf="apiServis.oturumKontrol()">
+      <mat-icon class="icon-display" style="color: rgb(197, 0, 0); ">logout</mat-icon>
+      <span>Oturum Kapat</span>
+    </button>
+
+
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <div class="content mat-elevation-z8">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+
+</mat-sidenav-container>
