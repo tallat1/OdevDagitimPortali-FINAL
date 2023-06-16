@@ -1,7 +1,7 @@
 # OdevDagitimPortali-FINAL
  İnternet Programcılığı-II Final Projesi
  
- API Diagram gorunumu
+ API Diagram
  
 ![diagram](https://github.com/tallat1/OdevDagitimPortali-FINAL/assets/59206343/342111a3-2284-4296-a7a6-51f1c1b82994)
 
